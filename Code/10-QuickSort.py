@@ -1,3 +1,5 @@
+# This code is written by Mr. Ishtiaq Ahmed
+# MSCS student at Institute of Southern Punjab
 def Quick_Sort(A, p, r):
     if p < r:
         q = Partition(A, p, r)
